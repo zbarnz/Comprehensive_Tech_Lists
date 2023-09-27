@@ -36,13 +36,13 @@ _Note: Esoteric languages have been deliberately excluded from these lists._
 
 **What are they?** Programming languages are formal languages used to instruct computers. They follow a set of rules (syntax) and are used to develop software, websites, and various applications that run on digital devices.
 
+_Note: A programming language does not need to be imperative or Turing-complete, but must be executable and so does not include markups such as HTML or XML, but does include domain-specific languages such as SQL and its dialects._
+
 - [List here](./lists/programming_languages.txt)
 
 ## Popular Libraries
 
 **What are they?** Libraries are collections of pre-written code modules that developers can use to avoid repetitive tasks, thereby accelerating the development process. They can offer solutions for operations like network requests, date manipulations, or complex algorithms. 
-
-_Note: A programming language does not need to be imperative or Turing-complete, but must be executable and so does not include markups such as HTML or XML, but does include domain-specific languages such as SQL and its dialects._
 
 - [List here](./lists/popular_libraries.txt)
 
