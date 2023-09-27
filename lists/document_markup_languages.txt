@@ -1,0 +1,86 @@
+ABC notation
+Amigaguide
+AsciiDoc
+AsciiDoctor
+Chemical Markup Language (CML)
+Compact HyperText Markup Language (C-HTML)
+Computable Document Format
+Compound Document Format
+ConTeXt
+Darwin Information Typing Architecture (DITA)
+DocBook
+eLML
+Encoded Archival Description (EAD)
+Enriched text
+Extensible 3D (X3D)
+Extensible Application Markup Language (XAML)
+Extensible HyperText Markup Language (XHTML)
+Extensible Markup Language (XML)
+Geography Markup Language (GML)
+Gesture Markup Language (GML)
+GNU TeXmacs format
+GML
+Generalized Markup Language (GML)
+Graffiti Markup Language (GML)
+Guide Markup Language (GuideML)
+Handheld Device Markup Language (HDML)
+Help Markup Language (HelpML)
+Hypermedia/Time-based Structuring Language (HyTime)
+HyperText Markup Language (HTML)
+HyperTeX
+Information Presentation Facility (IPF)
+JATS (Journal Article Tag Suite)
+Keyhole Markup Language (KML/KMZ)
+Koppla
+LilyPond
+LinuxDoc
+Lout
+Maker Interchange Format (MIF)
+Markdown
+Mathematical Markup Language (MathML)
+Metalanguages
+Microsoft Assistance Markup Language (MAML)
+Microsoft Office 2003 XML formats
+Music Encoding Initiative (MEI)
+Music Extensible Markup Language (MusicXML)
+Open Mathematical Documents (OMDoc)
+OpenDocument (ODF)
+OpenMath
+OpenOffice.org XML
+Office Open XML (OOXML)
+Parameter Value Language
+Pillar
+Plain Old Documentation (POD)
+PUB (markup language)
+PresentationML
+Remote Telescope Markup Language (RTML)
+ReportML
+reStructuredText (reSt)
+Retail Template Markup Language (RTML)
+Revisable-Form Text (RFT)
+Rich Text Format (RTF)
+S1000D
+Scribble
+Scribe
+Script
+Semantic, Extensible, Computational, Styled, Tagged markup language (SECST)
+SiSU Structured Information, Serialized Units
+SKiCal
+Scalable Vector Graphics (SVG)
+Skriv
+SpreadsheetML
+Standard Generalized Markup Language (SGML)
+TeX, LaTeX
+Texinfo
+Text Encoding Initiative (TEI)
+Textile (markup language)
+Time Management Markup Language(TMML)
+troff, groff
+UDO (markup language)
+Uniform Office Format (UOF)
+Wiki markup
+Wireless Markup Language (WML), Wireless TV Markup Language (WTVML)
+WordprocessingML
+XHTML Basic
+XHTML Mobile Profile (XHTML MP)
+Xupl

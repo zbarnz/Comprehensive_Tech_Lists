@@ -1,0 +1,39 @@
+AdonisJS
+ASP.NET Core
+Bottle
+Buffalo
+Catalyst
+CherryPy
+Django
+Echo
+Express.js
+FastAPI
+Feathers
+Fiber
+Flask
+Gin
+Grails
+Hapi
+Helidon
+Javalin
+Koa
+Laravel
+LoopBack
+Masonite
+Mojolicious
+NestJS
+Phoenix
+Play Framework
+Pyramid
+Quarkus
+Rails (Ruby on Rails)
+Rocket
+Ruby Grape
+Sails.js
+Sanic
+Sinatra
+Spring Boot
+Starlette
+Tornado
+Vert.x
+Web2py
